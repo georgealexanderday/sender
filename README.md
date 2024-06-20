@@ -2,6 +2,9 @@
 
 **TODO: Add description**
 
+
+beam.packages.erlang_27.elixir_1_17
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
